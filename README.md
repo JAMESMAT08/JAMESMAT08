@@ -87,7 +87,7 @@ Short description • tech used • role • highlights
 🔹 **Project 3 – Rental Management & Offline Sync App**  
 Short description • tech used • role • highlights
 
-> Once we finalize this layout, we’ll plug in real names, tech stacks, and (where allowed) links.
+<!-- > Once we finalize this layout, we’ll plug in real names, tech stacks, and (where allowed) links. -->
 
 ---
 
